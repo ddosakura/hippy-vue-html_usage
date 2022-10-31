@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+# 外部构建产物
+src/hippy-vue-html.js

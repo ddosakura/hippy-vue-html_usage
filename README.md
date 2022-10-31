@@ -1,0 +1,1 @@
+- simple usage for [hippy-vue-html](https://github.com/hippy-contrib/hippy-vue-html)
