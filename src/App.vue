@@ -3,8 +3,10 @@ export default {
   data() {
     return {
       text: [
-      '<p style="background: yellow;"><span style="color: red;"><b>多层样式合并</b></span></p>',
-      `<p style="background: blue;font-size: 20px;">
+      '<p style="background-color: #000;color: #fff;">普通样式</p>',
+      '<p style="background-color: yellow;"><span style="color: red;"><b>多层样式合并</b></span></p>',
+      '<p><span style="color: #000000"><span style="background-color: #ffff00">这个是图片+文案</span></span></p>',
+      `<p style="background-color: blue;font-size: 20px;">
         <span style="color: red;"><b>PartA</b></span>
         <b style="color: green;">PartB</b>
       </p>`,
